@@ -3,10 +3,8 @@
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
-namespace App\Controller;
-use App\Controller\AppController;
 
-class CreateTodoListsTable extends Migration
+class CreateTodoListsImportanceTable extends Migration
 {
     /**
      * Run the migrations.
